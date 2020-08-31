@@ -1,0 +1,2 @@
+# Getting_started_of_SfDateTimeRangeNavigator_in_Xamarin.Forms
+Demo sample of SfDateTimeRangeNavigator in Xamarin.Forms
