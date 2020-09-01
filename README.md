@@ -29,33 +29,33 @@ Location : {Installed location}/{version}/Xamarin/lib
 
 **PCL**
 
-Syncfusion.SfChart.XForms.dll
-Syncfusion.Core.XForms.dll
+Syncfusion.SfChart.XForms.dll\
+Syncfusion.Core.XForms.dll\
 Syncfusion.Licensing.dll
 
 **iOS**
 
-Syncfusion.SfChart.XForms.iOS.dll
-Syncfusion.SfChart.XForms.dll
-Syncfusion.Core.XForms.dll
-Syncfusion.Core.XForms.iOS.dll
+Syncfusion.SfChart.XForms.iOS.dll\
+Syncfusion.SfChart.XForms.dll\
+Syncfusion.Core.XForms.dll\
+Syncfusion.Core.XForms.iOS.dll\
 Syncfusion.Licensing.dll
 
 **Android**
 
-Syncfusion.SfChart.XForms.Android.dll
-Syncfusion.SfChart.XForms.dll
-Syncfusion.Core.XForms.dll
-Syncfusion.Core.XForms.Android.dll
+Syncfusion.SfChart.XForms.Android.dll\
+Syncfusion.SfChart.XForms.dll\
+Syncfusion.Core.XForms.dll\
+Syncfusion.Core.XForms.Android.dll\
 Syncfusion.Licensing.dll
 
 **UWP**
 
-Syncfusion.SfChart.UWP.dll
-Syncfusion.SfChart.XForms.UWP.dll
-Syncfusion.SfChart.XForms.dll
-Syncfusion.Core.XForms.dll
-Syncfusion.Core.XForms.UWP.dll
+Syncfusion.SfChart.UWP.dll\
+Syncfusion.SfChart.XForms.UWP.dll\
+Syncfusion.SfChart.XForms.dll\
+Syncfusion.Core.XForms.dll\
+Syncfusion.Core.XForms.UWP.dll\
 Syncfusion.Licensing.dll
 
 
