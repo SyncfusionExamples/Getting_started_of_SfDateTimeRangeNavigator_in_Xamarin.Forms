@@ -11,6 +11,8 @@ You can add SfDateTimeRangeNavigator reference in one of the following methods:
 
 Syncfusion Xamarin components are available in [nuget.org](https://www.nuget.org/). To add SfDateTimeRangeNavigator to your project, open the NuGet package manager in Visual Studio, search for [Syncfusion.Xamarin.SfChart](https://www.nuget.org/packages/Syncfusion.Xamarin.SfChart/), and then install it.
 
+![](Nuget.png)
+
 Adding Xamarin.Forms date-time range navigator reference
 
 *NOTE*
@@ -19,7 +21,7 @@ Install the same version of the SfChart NuGet in all the projects.
 
 **Method 2: Adding SfDateTimeRangeNavigator reference from toolbox**
 
-Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the SfDateTimeRangeNavigator control to the XAML page. It will automatically install the required NuGet packages and add the namespace to the page. To install Syncfusion Xamarin Toolbox, refer to Toolbox.
+Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the SfDateTimeRangeNavigator control to the XAML page. It will automatically install the required NuGet packages and add the namespace to the page. To install [Syncfusion Xamarin Toolbox](https://help.syncfusion.com/xamarin/utility#toolbox), refer to Toolbox.
 
 **Method 3: Adding SfDateTimeRangeNavigator assemblies manually from the installed location**
 
