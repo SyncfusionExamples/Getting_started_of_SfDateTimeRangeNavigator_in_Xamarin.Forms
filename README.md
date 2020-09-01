@@ -144,8 +144,7 @@ First, let us initialize the control with major and minor date time scales by sp
 <rangenavigator:SfDateTimeRangeNavigator  Minimum="2015,01,01" Maximum="2016,01,01"/>
 
 ```
-
-## Getting started for DateTime range navigator in Xamarin.Forms
+![](Getting_started.png)
 
 *NOTE*
 
@@ -208,8 +207,6 @@ By default, data is visualized using line series. You can change the chart type 
 <rangenavigator:SfDateTimeRangeNavigator ItemsSource="{Binding DateTimeData}" XBindingPath="Date" YBindingPath="Value"/>
 ```
 
-## Adding chart as a content of Xamarin.Forms DateTime range navigator
-
 ## Handle range selection
 
 In real time, other controls like chart, grid etc., are updated in response to the range selection performed in SfDateTimeRangeNavigator. You can handle the selection using RangeChanged event and update other controls based on the selected date time or perform some other tasks using the selected data.
@@ -223,7 +220,7 @@ Following code example illustrates how to handle range selection and update char
 
 [C#]
 
-````
+```
 rangeNavigator.RangeChanged += rangeNavigator_RangeChanged;  
 ...
 
@@ -233,3 +230,4 @@ private void rangeNavigator_RangeChanged(object sender, RangeChangedEventArgs e)
 }
 
 ```
+![](Output.jpeg)
