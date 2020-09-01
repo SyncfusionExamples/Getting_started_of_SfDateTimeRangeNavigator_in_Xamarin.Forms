@@ -27,12 +27,13 @@ If you prefer to manually reference the assemblies instead referencing from NuGe
 
 Location : {Installed location}/{version}/Xamarin/lib
 
-|PCL | iOS |Android| UWP|
-|Syncfusion.SfChart.XForms.dll|Syncfusion.SfChart.XForms.iOS.dll|Syncfusion.SfChart.XForms.Android.dll|Syncfusion.SfChart.UWP.dll|
-|Syncfusion.Core.XForms.dll|Syncfusion.SfChart.XForms.dll|Syncfusion.SfChart.XForms.dll|Syncfusion.SfChart.XForms.UWP.dll|
-|Syncfusion.Licensing.dll|Syncfusion.Core.XForms.dll|Syncfusion.Core.XForms.dll|Syncfusion.Core.XForms.dll|
-||Syncfusion.Core.XForms.Android.dll|Syncfusion.Core.XForms.iOS.dll|Syncfusion.SfChart.XForms.dll|
-||Syncfusion.Licensing.dll|Syncfusion.Licensing.dll|Syncfusion.Licensing.dll|
+| PCL  |Syncfusion.SfChart.XForms.dll
+Syncfusion.Core.XForms.dll
+Syncfusion.Licensing.dll |  
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 *NOTE*
